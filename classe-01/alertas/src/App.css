@@ -1,0 +1,45 @@
+*{
+  font-family: 'Roboto', sans-serif;
+}
+body{
+  background-color: #E5E5E5;
+  padding: 100px;
+}
+p#card-1{
+  margin: 29px 53px 40px 52px;
+}
+p#card-2{
+  margin: 20px 115px 46px 114px;
+}
+
+img{
+  margin-bottom: 30px;
+}
+
+.card{
+  background-color: white;
+  border-radius: 20px;
+  text-align: center;
+  padding: 35px 52px 70px 52px;
+  max-width: 432px;
+  margin: 0 auto;
+  margin-bottom: 134px;
+}
+.btn{
+  text-decoration: none;
+  padding: 14px 62px;
+  border-radius: 5px;
+}
+.btn-fechar{
+  width: 30px;
+  margin-left: auto;
+}
+
+.btn-vermelho{
+  color: white;
+  background: #ED6755;
+}
+.btn-azul{
+  color: white;
+  background: #1C1B5E;
+}

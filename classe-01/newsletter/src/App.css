@@ -1,0 +1,106 @@
+body{
+  background: #E5E5E5;;
+}
+img{
+  margin-top: 84px;
+  margin-left: 85px;
+  margin-right: 376px;
+}
+h1{
+  font-family: 'Merriweather' serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 32px;
+  color: #FFFFFF;
+
+  margin: 0px 65px 13px 60px;
+}
+h2{
+  font-family: 'Open Sans' sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 28px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+
+  margin: 60px 256px 10px 60px;
+  padding-top: 60px;
+}
+p{
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 28px;
+  color: #FFFFFF;
+
+  margin: 0px 65px 55px 60px;
+}
+a{
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 28px;
+  color: #101439;
+
+  text-decoration: none;
+  padding: 25px 101px 24px 101px;
+  margin: 0px 60px 0px 60px;
+  background: #FFFFFF;
+  border-radius: 10px;
+}
+
+p#frase{
+  font-family: 'Merriweather', serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 36px;
+  color: #101439;
+
+  margin-left: 85px;
+  margin-top: 5px;
+  margin-right: 97px;
+
+}
+p#autor{
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #101439;
+
+  margin-top: 38px;
+  margin-left: 85px;
+  margin-right: 280px;
+
+  padding-bottom: 65px;
+}
+
+.card{
+  box-shadow: 0px 15px 30px -20px #D4DCF3;
+  border-radius: 10px;
+}
+.card-1-tamanho{
+  max-width: 505px;
+  margin: 0 auto;
+  margin-top: 126px;
+  margin-bottom: 126px;
+}
+.card-2-tamanho{
+  max-width: 431px;
+  margin: 0 auto;
+  margin-bottom: 126px;
+  padding-bottom: 90px;
+}
+.card-white{
+  background: #FFFFFF;
+}
+.card-blue{
+  background: #101439;
+}
